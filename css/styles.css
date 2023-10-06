@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.down {
+    margin: 10pt 5pt;
+}
+
+.portfolio {
+    background-color: antiquewhite;
+}
+
+#title {
+    font-family: 'Recursive', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+    text-decoration-line: overline;
+}
+
+#subtitle {
+    font-family: 'Recursive', sans-serif;
+    color: white;
+}
+
+
