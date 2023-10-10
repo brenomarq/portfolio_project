@@ -10,6 +10,11 @@ body {
     background-color: antiquewhite;
 }
 
+.projects {
+    display: inline-block;
+    margin: 0px 25px;
+}
+
 #title {
     font-family: 'Recursive', sans-serif;
     font-size: 3rem;
