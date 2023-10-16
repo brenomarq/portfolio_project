@@ -1,18 +1,35 @@
 body {
     text-align: center;
+    background-color: #FFF8C9;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.header {
+    background: linear-gradient(to right, #BEADFA, #713ABE, #610C9F);
+    padding: 1%;
+    border-radius: 10px;
+}
+
+.projects-container {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
 }
 
 .down {
     margin: 10pt 5pt;
-}
-
-.portfolio {
-    background-color: antiquewhite;
-}
-
-.projects {
-    display: inline-block;
-    margin: 0px 25px;
 }
 
 #title {
@@ -27,5 +44,3 @@ body {
     font-family: 'Recursive', sans-serif;
     color: white;
 }
-
-
